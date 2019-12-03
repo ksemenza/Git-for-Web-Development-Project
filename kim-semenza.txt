@@ -1,5 +1,7 @@
-
-    1. What is Semantic HTML? 
+Git Project link: https://codepen.io/ksemenza27/pen/QWwwKwE
+  
+  
+  1. What is Semantic HTML? 
 	Semantic HTML or semantic markup gives meaning and structure to the web page.
 
     2. What is HTML used for? 
