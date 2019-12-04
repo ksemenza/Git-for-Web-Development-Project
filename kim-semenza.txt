@@ -115,4 +115,3 @@ Git Project link: https://codepen.io/ksemenza27/pen/QWwwKwE
 	git add .
 	git commit -m ‘message about commitment’
 	git push
-
